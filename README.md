@@ -135,21 +135,22 @@ Forest Monitoring & Decision Support
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abiodun-oyediran\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiodun-oyediran&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiodun-oyediran&layout=compact&hide_border=true)
 
 ---
 
-## 🌍 Connect
+## 🌐 Connect
 
 If you are interested in **forestry, geospatial science, remote sensing, forest biometrics, or geospatial development**, feel free to connect.
 
-🌐 **[Portfolio](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)**
-🔬 **[Google Scholar](https://scholar.google.com/citations?user=iQZJtS0AAAAJ)**
-🆔 **[ORCID](https://orcid.org/0000-0002-5803-0822)**
-💼 **[LinkedIn](https://www.linkedin.com/in/oyediran-abiodun-b36167210/)**
-
+🌐 [Portfolio](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)  
+🔬 [Google Scholar](https://scholar.google.com/citations?user=iQZJtS0AAAAJ)  
+🆔 [ORCID](https://orcid.org/0000-0002-5803-0822)  
+💼 [LinkedIn](https://www.linkedin.com/in/oyediran-abiodun-b36167210/)
 ---
 
 > **Building geospatial tools and applying Earth observation to better understand and manage forest ecosystems.**
