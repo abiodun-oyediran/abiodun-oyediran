@@ -9,7 +9,13 @@ My work sits at the intersection of **forestry, Earth observation, GIS, remote s
 I am currently expanding my skills from **GIS analysis into geospatial development**, building reproducible workflows, spatial applications, and data-driven tools for environmental and forestry applications.
 
 ---
+## 🌐 Portfolio
 
+🔗 **[Visit my Portfolio](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)**
+
+Explore my research, geospatial projects, technical skills, publications, and professional experience.
+
+---
 ## 🌍 Research & Technical Interests
 
 * 🌲 Tropical forest monitoring
@@ -95,9 +101,13 @@ Building web-based and computational tools that combine spatial data, remote sen
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oyediran-abiodun\&show_icons=true\&theme=default\&hide_border=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abiodun-oyediran&hide_border=true)](https://github.com/abiodun-oyediran)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oyediran-abiodun\&layout=compact\&hide_border=true)
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiodun-oyediran\&show_icons=true\&theme=default\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiodun-oyediran\&layout=compact\&hide_border=true)
 
 ---
 
