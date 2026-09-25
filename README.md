@@ -1,4 +1,8 @@
-# Hi there, I'm Abiodun Emmanuel Oyediran 👋
+<div align="center">
+      
+## Hi there, I'm Abiodun Emmanuel Oyediran  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2C7A2C&center=true&vCenter=true&width=650&lines=GIS+%26+Remote+Sensing+Specialist;Forestry+%26+Forest+Biometrics;Earth+Observation+%2B+Geospatial+Development;Monitoring+Forests+with+Data+%F0%9F%8C%B3)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/abiodun-oyediran)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square\&logo=vercel\&logoColor=white)](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)
@@ -13,6 +17,7 @@ My work combines **field inventory, satellite remote sensing, UAV data, GIS, sta
 I am currently expanding my work from **GIS analysis into geospatial development**, building reproducible workflows, spatial applications, and data-driven tools for environmental and forestry applications.
 
 🌐 **[Visit my Portfolio](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)**
+</div>
 
 ---
 
@@ -31,29 +36,53 @@ I am currently expanding my work from **GIS analysis into geospatial development
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technologies & Tools
 
-### GIS & Remote Sensing
+<img src="https://skillicons.dev/icons?i=python,r,js,postgres,git,github,docker,bash&theme=dark&perline=8" alt="Core stack" />
 
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7A2C?style=flat-square\&logo=arcgis\&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square\&logo=qgis\&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square\&logo=googleearth\&logoColor=white)
-![ENVI](https://img.shields.io/badge/ENVI-Remote%20Sensing-blue?style=flat-square)
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**🛰️ GIS & Remote Sensing**
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7A2C?style=flat-square&logo=arcgis&logoColor=white)  
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)  
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)  
+![ENVI](https://img.shields.io/badge/ENVI-Remote%20Sensing-blue?style=flat-square)  
 ![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-Remote%20Sensing-green?style=flat-square)
 
-### Programming & Data Science
+</td>
+<td valign="top" width="33%">
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+**📊 Programming & Data Science**
 
-### Geospatial Development
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+</td>
+<td valign="top" width="33%">
+
+**💻 Geospatial Development**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420">
+</p>
 
 ---
 
@@ -103,19 +132,21 @@ Development of web-based and computational tools that combine spatial data, remo
 
 My research focuses on integrating **field observations with Earth observation and computational methods** to improve forest monitoring and assessment.
 
-```text
-Field Inventory
-      ↓
-Remote Sensing & UAV Data
-      ↓
-GIS & Spatial Analysis
-      ↓
-Statistical / Machine Learning Models
-      ↓
-Geospatial Applications
-      ↓
-Forest Monitoring & Decision Support
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/1-Field%20Inventory-1b4d1b?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/2-Remote%20Sensing%20%26%20UAV%20Data-235c23?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/3-GIS%20%26%20Spatial%20Analysis-2C7A2C?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/4-Statistical%20%2F%20ML%20Models-3d8f3d?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/5-Geospatial%20Applications-4ea54e?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/6-Monitoring%20%26%20Decision%20Support-5fbb5f?style=for-the-badge&logoColor=white" />
+
+</div>
 
 ---
 
@@ -137,20 +168,48 @@ Forest Monitoring & Decision Support
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiodun-oyediran&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abiodun-oyediran&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiodun-oyediran&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=abiodun-oyediran&layout=compact&hide_border=true)
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
-If you are interested in **forestry, geospatial science, remote sensing, forest biometrics, or geospatial development**, feel free to connect.
+## 🌐 Let's Connect
 
-🌐 [Portfolio](https://portfolio-ten-beta-ty6dsjr56w.vercel.app/)  
-🔬 [Google Scholar](https://scholar.google.com/citations?user=iQZJtS0AAAAJ)  
-🆔 [ORCID](https://orcid.org/0000-0002-5803-0822)  
-💼 [LinkedIn](https://www.linkedin.com/in/oyediran-abiodun-b36167210/)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+&nbsp;If you're into&nbsp; **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** &nbsp;— let's talk.&nbsp;
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+
+<p>
+  <a href="https://portfolio-ten-beta-ty6dsjr56w.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=iQZJtS0AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0000-0002-5803-0822">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--5803--0822-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/oyediran-abiodun-b36167210/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abiodun-oyediran">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 📍 Based in Ibadan, Nigeria
+
+<a href="https://www.openstreetmap.org/?mlat=7.4432&mlon=3.8994#map=12/7.4432/3.8994">
+  <img src="http://staticmap.openstreetmap.de/staticmap.php?center=7.4432,3.8994&zoom=11&size=650x300&maptype=mapnik&markers=7.4432,3.8994,red-pushpin" alt="Map — University of Ibadan, Nigeria" width="650">
+</a>
+
+*University of Ibadan — mapping Nigeria's forests, one pixel at a time* 
+
 ---
 
 > **Building geospatial tools and applying Earth observation to better understand and manage forest ecosystems.**
+
+</div>
