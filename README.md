@@ -134,17 +134,10 @@ My research focuses on integrating **field observations with Earth observation a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/1-Field%20Inventory-1b4d1b?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/2-Remote%20Sensing%20%26%20UAV%20Data-235c23?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/3-GIS%20%26%20Spatial%20Analysis-2C7A2C?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/4-Statistical%20%2F%20ML%20Models-3d8f3d?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/5-Geospatial%20Applications-4ea54e?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/6-Monitoring%20%26%20Decision%20Support-5fbb5f?style=for-the-badge&logoColor=white" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research-pipeline-dark.svg">
+  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research-pipeline-light.svg" alt="Research pipeline: Field Inventory → Remote Sensing & UAV Data → GIS & Spatial Analysis → Statistical/ML Models → Geospatial Applications → Monitoring & Decision Support" width="850">
+</picture>
 
 </div>
 
@@ -179,7 +172,9 @@ My research focuses on integrating **field observations with Earth observation a
 ## 🌐 Let's Connect
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
-&nbsp;If you're into&nbsp; **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** &nbsp;— let's talk.&nbsp;
+&nbsp;If you're into
+&nbsp; **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** 
+&nbsp; let's talk.&nbsp;
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 <p>
