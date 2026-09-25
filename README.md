@@ -136,34 +136,43 @@ My research focuses on integrating **field observations with Earth observation a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research-pipeline-dark.svg">
-  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research-pipeline-light.svg" alt="Research pipeline: Field Inventory → Remote Sensing & UAV Data → GIS & Spatial Analysis → Statistical/ML Models → Geospatial Applications → Monitoring & Decision Support" width="850">
+  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research pipeline light.svg" alt="Research pipeline: Field Inventory → Remote Sensing & UAV Data → GIS & Spatial Analysis → Statistical/ML Models → Geospatial Applications → Monitoring & Decision Support" width="850">
 </picture>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 📚 Research Areas
 
-* Forest remote sensing
-* Forest biometrics
-* Forest growth and yield modelling
-* Diameter distribution modelling
-* Aboveground biomass and carbon estimation
-* Canopy cover assessment
-* Forest cover classification
-* Land use/land cover change
-* UAV-based forest assessment
-* Machine learning for environmental monitoring
-* Spatial analysis for sustainable forest management
+<img src="https://img.shields.io/badge/🌲_Forest_Remote_Sensing-1b4d1b?style=flat-square&labelColor=1b4d1b" height="30"/>
+<img src="https://img.shields.io/badge/📐_Forest_Biometrics-235c23?style=flat-square&labelColor=235c23" height="30"/>
+<img src="https://img.shields.io/badge/📈_Growth_%26_Yield_Modelling-2C7A2C?style=flat-square&labelColor=2C7A2C" height="30"/>
+<img src="https://img.shields.io/badge/📊_Diameter_Distribution_Modelling-317f31?style=flat-square&labelColor=317f31" height="30"/>
+<br/>
+<img src="https://img.shields.io/badge/🌱_Biomass_%26_Carbon_Estimation-378c37?style=flat-square&labelColor=378c37" height="30"/>
+<img src="https://img.shields.io/badge/🌳_Canopy_Cover_Assessment-3d8f3d?style=flat-square&labelColor=3d8f3d" height="30"/>
+<img src="https://img.shields.io/badge/🗺️_Forest_Cover_Classification-439943?style=flat-square&labelColor=439943" height="30"/>
+<br/>
+<img src="https://img.shields.io/badge/🌍_Land_Use%2FLand_Cover_Change-49ad49?style=flat-square&labelColor=49ad49" height="30"/>
+<img src="https://img.shields.io/badge/🚁_UAV--Based_Assessment-4ea54e?style=flat-square&labelColor=4ea54e" height="30"/>
+<img src="https://img.shields.io/badge/🤖_ML_for_Environmental_Monitoring-55d155?style=flat-square&labelColor=55d155" height="30"/>
+<br/>
+<img src="https://img.shields.io/badge/🌿_Spatial_Analysis_for_Sustainable_Forestry-5fbb5f?style=flat-square&labelColor=5fbb5f" height="30"/>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abiodun-oyediran&show_icons=true&hide_border=true&rank_icon=github)
+<div align="center">
+      
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abiodun-oyediran&show_icons=true&hide_border=true&rank_icon=github)  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=abiodun-oyediran&layout=compact&hide_border=true)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=abiodun-oyediran&layout=compact&hide_border=true)
+</div>
 
 ---
 
@@ -172,9 +181,7 @@ My research focuses on integrating **field observations with Earth observation a
 ## 🌐 Let's Connect
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
-&nbsp;If you're into
-&nbsp; **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** 
-&nbsp; let's talk.&nbsp;
+&nbsp;If you're into&nbsp; **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** &nbsp;— let's talk.&nbsp;
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
 <p>
@@ -198,10 +205,10 @@ My research focuses on integrating **field observations with Earth observation a
 ### 📍 Based in Ibadan, Nigeria
 
 <a href="https://www.openstreetmap.org/?mlat=7.4432&mlon=3.8994#map=12/7.4432/3.8994">
-  <img src="http://staticmap.openstreetmap.de/staticmap.php?center=7.4432,3.8994&zoom=11&size=650x300&maptype=mapnik&markers=7.4432,3.8994,red-pushpin" alt="Map — University of Ibadan, Nigeria" width="650">
+  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/nigeria-map.svg" alt="Map — University of Ibadan, Nigeria" width="480">
 </a>
 
-*University of Ibadan — mapping Nigeria's forests, one pixel at a time* 
+<i>University of Ibadan — mapping Nigeria's forests, one pixel at a time</i>
 
 ---
 
