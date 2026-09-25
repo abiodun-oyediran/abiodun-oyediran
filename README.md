@@ -21,7 +21,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 
 ---
 
-## 🌲 Research & Technical Interests
+## Research & Technical Interests
 
 * 🌳 Tropical forest monitoring
 * 🛰️ Remote sensing & Earth observation
@@ -38,7 +38,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 
 <div align="center">
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=python,r,js,postgres,git,github,docker,bash&theme=dark&perline=8" alt="Core stack" />
 
@@ -48,7 +48,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 <tr>
 <td valign="top" width="33%">
 
-**🛰️ GIS & Remote Sensing**
+**GIS & Remote Sensing**
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7A2C?style=flat-square&logo=arcgis&logoColor=white)  
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)  
@@ -59,7 +59,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 </td>
 <td valign="top" width="33%">
 
-**📊 Programming & Data Science**
+**Programming & Data Science**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
@@ -69,7 +69,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 </td>
 <td valign="top" width="33%">
 
-**💻 Geospatial Development**
+**Geospatial Development**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
@@ -86,9 +86,9 @@ I am currently expanding my work from **GIS analysis into geospatial development
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🌲 Forest Diameter Distribution Modelling
+### Forest Diameter Distribution Modelling
 
 Statistical modelling of tree diameter distributions using forest inventory data, probability distributions, model evaluation, and cross-validation.
 
@@ -96,7 +96,7 @@ Statistical modelling of tree diameter distributions using forest inventory data
 
 ---
 
-### 🛰️ Forest Remote Sensing & Biomass Assessment
+### Forest Remote Sensing & Biomass Assessment
 
 Analysis of satellite-derived spectral and vegetation indices with field inventory data for forest biomass and carbon assessment.
 
@@ -104,7 +104,7 @@ Analysis of satellite-derived spectral and vegetation indices with field invento
 
 ---
 
-### 🗺️ Land Use/Land Cover Change Detection
+### Land Use/Land Cover Change Detection
 
 Analysis of multi-temporal satellite imagery to investigate changes in forest cover and landscape dynamics.
 
@@ -112,7 +112,7 @@ Analysis of multi-temporal satellite imagery to investigate changes in forest co
 
 ---
 
-### 🌳 Forest Inventory & Biodiversity Analysis
+### Forest Inventory & Biodiversity Analysis
 
 Reproducible workflows for analysing forest inventory datasets, including species diversity, forest structure, diameter distributions, and tree growth characteristics.
 
@@ -120,7 +120,7 @@ Reproducible workflows for analysing forest inventory datasets, including specie
 
 ---
 
-### 💻 Geospatial Applications
+### Geospatial Applications
 
 Development of web-based and computational tools that combine spatial data, remote sensing, environmental datasets, and interactive mapping.
 
@@ -128,7 +128,7 @@ Development of web-based and computational tools that combine spatial data, remo
 
 ---
 
-## 🔬 Research Focus
+## Research Focus
 
 My research focuses on integrating **field observations with Earth observation and computational methods** to improve forest monitoring and assessment.
 
