@@ -204,7 +204,7 @@ My research focuses on integrating **field observations with Earth observation a
 ### 📍 Based in Ibadan, Nigeria
 
 <a href="https://www.openstreetmap.org/?mlat=7.4432&mlon=3.8994#map=12/7.4432/3.8994">
-  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/nigeria-map.svg" alt="Map — University of Ibadan, Nigeria" width="480">
+  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/university-of-ibadan.png" alt="Map — University of Ibadan, Nigeria" width="480">
 </a>
 
 <i>University of Ibadan — mapping Nigeria's forests, one pixel at a time</i>
