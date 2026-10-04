@@ -180,7 +180,7 @@ My research focuses on integrating **field observations with Earth observation a
 
 ## 🌐 Let's Connect
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> If you're into **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** — let's talk. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> If you're into **forestry • geospatial science • remote sensing • forest biometrics • geospatial development** — let's talk.
 
 
 <p>
