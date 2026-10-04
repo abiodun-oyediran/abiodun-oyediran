@@ -88,7 +88,7 @@ I am currently expanding my work from **GIS analysis into geospatial development
 
 ##  Featured Projects
 
-### Forest Diameter Distribution Modelling
+### [Forest Diameter Distribution Modelling](https://github.com/abiodun-oyediran/01-forest-diameter-distribution-modelling)
 
 Statistical modelling of tree diameter distributions using forest inventory data, probability distributions, model evaluation, and cross-validation.
 
@@ -136,7 +136,7 @@ My research focuses on integrating **field observations with Earth observation a
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research-pipeline-dark.svg">
-  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research pipeline light.svg" alt="Research pipeline: Field Inventory → Remote Sensing & UAV Data → GIS & Spatial Analysis → Statistical/ML Models → Geospatial Applications → Monitoring & Decision Support" width="850">
+  <img src="https://raw.githubusercontent.com/abiodun-oyediran/abiodun-oyediran/main/assets/research%20pipeline%20light.svg" alt="Research pipeline: Field Inventory → Remote Sensing & UAV Data → GIS & Spatial Analysis → Statistical/ML Models → Geospatial Applications → Monitoring & Decision Support" width="850">
 </picture>
 
 </div>
